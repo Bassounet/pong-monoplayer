@@ -1,10 +1,7 @@
 # pong-jquery
 Un petit pong au clavier simplissime
 
-### Joueur 1
-touches A / Q 
-### Joueur 2
-touches P / M
+### La petite fille amuse toi bien ... 
 
 #### C'est jouable ici.
-https://davidmars.github.io/pong-jquery
+https://bassounet.github.io/pong-monoplayer/
